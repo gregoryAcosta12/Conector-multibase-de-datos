@@ -1,0 +1,21 @@
+2024-11-23 16:27:29 - INFO - La vista de conexiones se ha cargado correctamente.
+2024-11-23 16:27:37 - INFO - Gestor de base de datos seleccionado: Firebase
+2024-11-23 16:27:45 - INFO - Gestor de base de datos seleccionado: MySQL
+2024-11-23 16:27:47 - INFO - Servidor ingresado: l
+2024-11-23 16:27:47 - INFO - Servidor ingresado: lo
+2024-11-23 16:27:47 - INFO - Servidor ingresado: loc
+2024-11-23 16:27:48 - INFO - Servidor ingresado: loca
+2024-11-23 16:27:48 - INFO - Servidor ingresado: local
+2024-11-23 16:27:48 - INFO - Servidor ingresado: localh
+2024-11-23 16:27:48 - INFO - Servidor ingresado: localho
+2024-11-23 16:27:48 - INFO - Servidor ingresado: localhos
+2024-11-23 16:27:49 - INFO - Servidor ingresado: localhost
+2024-11-23 16:27:51 - INFO - Usuario ingresado: r
+2024-11-23 16:27:52 - INFO - Usuario ingresado: ro
+2024-11-23 16:27:52 - INFO - Usuario ingresado: roo
+2024-11-23 16:27:52 - INFO - Usuario ingresado: root
+2024-11-23 16:27:54 - INFO - Se ingresó una contraseña (no se registra el valor por seguridad).
+2024-11-23 16:27:54 - INFO - Se ingresó una contraseña (no se registra el valor por seguridad).
+2024-11-23 16:27:55 - INFO - Se ingresó una contraseña (no se registra el valor por seguridad).
+2024-11-23 16:27:55 - INFO - Se ingresó una contraseña (no se registra el valor por seguridad).
+2024-11-23 16:27:55 - INFO - Se ingresó una contraseña (no se registra el valor por seguridad).
